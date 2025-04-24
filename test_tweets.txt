@@ -1,0 +1,17 @@
+Tweets Positivos:
+
+"I’m so happy with my new phone! It works perfectly and the camera is amazing!"
+"The concert last night was incredible! I had the best time with my friends!"
+"Just had the most delicious meal at that new restaurant, definitely going back!"
+
+Tweets Negativos:
+
+"I’m so disappointed with this phone. It keeps freezing and the battery drains so fast."
+"The movie was awful, I couldn't wait for it to end. Total waste of time."
+"This restaurant is terrible. The service was slow and the food was cold. Never coming back."
+
+Tweets Neutros:
+
+"I’m just going to grab some groceries today."
+"The weather is okay, not too hot or cold, just a regular day."
+"I’ve got a meeting later this afternoon, hope it goes well."
